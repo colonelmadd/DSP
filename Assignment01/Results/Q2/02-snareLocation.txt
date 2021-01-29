@@ -1,0 +1,2 @@
+sample location on the drumloop file: 
+[22051, 66151, 110251, 154351]
