@@ -1,0 +1,5 @@
+3.4)
+It is going to be sample rate divided by length of the Signal
+(which means number of data)
+
+3.5)it will increase the frequency resolution because it's going to increase number inside the array. 
